@@ -4,7 +4,7 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Farhad Ahmad',
+  title: 'muhammad jawad',
   description: 'Created with me',
   generator: 'ME',
 }

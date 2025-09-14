@@ -187,7 +187,7 @@ export default function GamingPortfolio() {
       <nav className="fixed top-4 left-1/2 transform -translate-x-1/2 z-50 bg-gray-900/70 backdrop-blur-md border border-cyan-500/30 rounded-full px-6 py-3 shadow-lg shadow-cyan-500/20">
         <div className="flex items-center space-x-6">
           <div className="text-lg font-bold font-gaming bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">
-            FA
+            MJ
           </div>
           <div className="hidden md:flex space-x-6">
             {["About", "Skills", "Projects", "Contact"].map((item) => (
