@@ -703,7 +703,7 @@ export default function GamingPortfolio() {
       {/* Footer */}
       <footer className="py-8 px-4 border-t border-gray-800">
         <div className="container mx-auto text-center">
-          <p className="text-gray-500 font-cyber">© 2025 Ahmad Farhad. Built with Next.js, Three.js & GSAP</p>
+          <p className="text-gray-500 font-cyber">© 2025 Muhammad Jawad. Built with Next.js, Three.js & GSAP</p>
         </div>
       </footer>
 
